@@ -2,6 +2,8 @@
 
 A React and TypeScript recommendation prototype by William Norwalk. It compares item choices using champion profiles, role, game state, and enemy-team threats.
 
+[Open the static demo](https://bjnorwalk.github.io/lol-build-optimizer/). Champion/item planning runs in the browser; Riot account features require the optional backend described below.
+
 ## What it demonstrates
 
 - Structured champion and item data with reusable recommendation logic.
