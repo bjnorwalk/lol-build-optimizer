@@ -38,9 +38,10 @@ account and match data are not included in the repository.
 ## Checks
 
 ```sh
-npm test
-npm run build
+npm run check
 ```
+
+This runs the tests and production build, and also runs in GitHub Actions.
 
 The build runs TypeScript before bundling the frontend. Tests cover champion data,
 recommendation behavior, and Riot ID parsing. There is no separate lint script.
