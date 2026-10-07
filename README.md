@@ -5,7 +5,7 @@ Choose a champion, role, and matchup to compare item choices. The recommendation
 logic scores damage, healing, shields, and other enemy-team threats, then explains
 why an item fits the selected game state.
 
-[Open the static demo](https://bjnorwalk.github.io/lol-build-optimizer/).
+[Open the static demo](https://bjnorwalk.github.io/riftguide/).
 Champion and item planning runs in the browser. Account features need the optional
 server described below.
 
